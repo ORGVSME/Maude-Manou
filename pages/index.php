@@ -33,7 +33,7 @@ $man = getDepartments_and_manager();
          <tr>
             <th class="table-primary">numero de departement</th>
             <th class="table-danger">Nom du departemen</th>
-            <th class="table-warning">first name</th>
+            <th class="table-warning">manager</th>
             <th class="table-info">last name</th>
             <th class="table-success">employees</th>
             
