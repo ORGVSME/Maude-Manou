@@ -57,6 +57,8 @@ $man = getDepartments_and_manager();
     </table>
 
 </div>
+<h1>normalement </h1>
+
     
 <p>c'est Tombaieuaieo</p>
 
