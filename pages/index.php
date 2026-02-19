@@ -59,6 +59,8 @@ $man = getDepartments_and_manager();
 </div>
     
 <p>c'est Tombaieuaieo</p>
+
+<h2>encore une autre modif</h2>
    
 </body>
 </html>
