@@ -58,7 +58,7 @@ $man = getDepartments_and_manager();
 
 </div>
     
-
+<p>c'est Tombo</p>
    
 </body>
 </html>
